@@ -1574,15 +1574,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_candle": {
-    "criteria": {
-      "has_magenta_dye": "2022-12-16 23:55:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2022-12-16 23:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2022-12-16 23:55:39 +0000"
     },
     "done": true
   },
