@@ -1,5 +1,142 @@
-[17:15:05] [Server thread/INFO]: ICOGNITA[/189.26.40.96:62081] logged in with entity id 368067 at (-112.98575131042867, 56.0, 274.0040094639369)
-[17:15:05] [Server thread/INFO]: ICOGNITA joined the game
-[17:24:24] [Server thread/INFO]: Reloading!
-[17:24:24] [Server thread/INFO]: Loaded 7 recipes
-[17:24:24] [Server thread/INFO]: Loaded 1179 advancements
+[16:37:48] [Server thread/INFO]: ICOGNITA[/177.75.133.72:31497] logged in with entity id 595653 at (84.63531974734498, 59.0, 11.231019985384615)
+[16:37:48] [Server thread/INFO]: ICOGNITA joined the game
+[16:57:59] [Server thread/INFO]: LAMBARIiccc[/168.90.41.133:61699] logged in with entity id 596910 at (-342.85141013178577, 71.0, 450.083800756438)
+[16:57:59] [Server thread/INFO]: LAMBARIiccc joined the game
+[17:00:54] [Server thread/INFO]: LAMBARIiccc lost connection: Disconnected
+[17:00:54] [Server thread/INFO]: LAMBARIiccc left the game
+[17:01:26] [Server thread/INFO]: LAMBARIiccc[/168.90.41.133:61706] logged in with entity id 598322 at (-416.5308675733779, 63.0, 427.0249026068361)
+[17:01:26] [Server thread/INFO]: LAMBARIiccc joined the game
+[17:02:00] [Server thread/INFO]: Jeywerson[/131.221.106.190:11218] logged in with entity id 598841 at (-237.94832667579547, 64.0, 383.4388322569138)
+[17:02:00] [Server thread/INFO]: Jeywerson joined the game
+[17:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[17:32:03] [Server thread/INFO]: Jeywerson has made the advancement [What a Deal!]
+[17:45:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
+[17:45:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
+[17:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[17:47:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4602ms or 92 ticks behind
+[17:51:20] [Server thread/INFO]: Jeywerson has made the advancement [Those Were the Days]
+[17:51:38] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! 0.0,0.0,10.70987133758615
+[17:51:38] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! 0.0,0.0,12.506317452424241
+[17:51:38] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! 0.0,0.0,14.305795266463349
+[17:51:38] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! 0.0,0.0,16.10821792718417
+[17:51:38] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! 0.0,0.0,17.913499995015883
+[17:51:38] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! 0.0,0.0,19.721558324048004
+[17:51:38] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! 0.0,0.0,21.53231112581284
+[17:51:39] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! 0.0,0.0,14.429132779178673
+[17:51:39] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! 0.0,0.0,16.245038177215662
+[17:51:40] [Server thread/INFO]: Jeywerson has made the advancement [Eye Spy]
+[17:51:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[17:51:49] [Server thread/INFO]: Jeywerson has made the advancement [The End?]
+[17:51:50] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! -10.723552623433015,0.0,0.048906060886281466
+[17:51:50] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! -11.661268629351845,0.0,0.048906060886281466
+[17:51:50] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! -12.620036214716869,0.0,0.048906060886281466
+[17:51:50] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! -13.599517817195128,0.0,0.048906060886281466
+[17:51:50] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! -14.599358370328723,0.0,0.048906060886281466
+[17:51:50] [Server thread/WARN]: Jeywerson moved too quickly! 2266.691617296379,55.2468000194788,-4287.313181524471
+[17:51:51] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! -11.18985652679389,0.0,-0.12424455943983048
+[17:51:51] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! -12.504419155729366,0.0,-0.12424455943983048
+[17:51:51] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! -13.8317968442216,0.0,-0.12424455943983048
+[17:51:51] [Server thread/WARN]: Boat (vehicle of ICOGNITA) moved too quickly! -15.171598853047584,0.0,-0.12424455943983048
+[17:59:23] [Server thread/INFO]: Jeywerson has made the advancement [Remote Getaway]
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,11.558394265706283
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,13.489857079139739
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,15.422690176786574
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,17.35686615298866
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,19.2923581502005
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,21.229139848027017
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,23.16718545248048
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,25.10646968545248
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,27.04696777439628
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,28.988655442215588
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,30.9315088973556
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,32.875504824092104
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,34.820620373014975
+[18:09:44] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,11.574542480129821
+[18:09:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18:09:50] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 10.783809016935237,0.0,0.0
+[18:09:50] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 12.053794507780168,0.0,0.0
+[18:09:50] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 13.33790414553124,0.0,0.0
+[18:09:50] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 14.635992571730299,0.0,0.0
+[18:09:50] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 15.947891738615994,0.0,0.0
+[18:09:50] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 17.27341356083059,0.0,0.0
+[18:10:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[18:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[18:11:53] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.011307043324279675,0.0,-11.521966609747842
+[18:11:53] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.011307043324279675,0.0,-13.446638205497507
+[18:11:53] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.011307043324279675,0.0,-15.372319972963137
+[18:11:53] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.011307043324279675,0.0,-17.29909046990078
+[18:11:53] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.011307043324279675,0.0,-19.227014359652554
+[18:11:53] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.011307043324279675,0.0,-21.15614322175118
+[18:11:53] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.011307043324279675,0.0,-23.08651598495926
+[18:11:53] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.011307043324279675,0.0,-25.01816017866225
+[18:11:53] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.011307043324279675,0.0,-26.951092678671134
+[18:11:53] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,-19.286988930965553
+[18:16:28] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,10.419135739043206
+[18:16:28] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,11.381548859847666
+[18:16:28] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,12.364701688109715
+[18:16:28] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,13.36817943007578
+[18:16:28] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,14.39157558785945
+[18:16:28] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,15.434491793524284
+[18:16:28] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,16.496537646484974
+[18:16:28] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,17.57733055416047
+[18:16:28] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,18.67649557581405
+[18:16:28] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,19.793665269516577
+[18:16:34] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,11.439596138563815
+[18:16:34] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,13.352582161218635
+[18:16:34] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,15.267296451424784
+[18:16:34] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,17.1837044438642
+[18:16:34] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,19.1017722645245
+[18:16:34] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,21.021466716872936
+[18:16:34] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,22.942755268306797
+[18:16:34] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,24.865606036874738
+[18:16:34] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,26.789987778263907
+[18:16:34] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,28.71586987304707
+[18:16:34] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,30.643222314184953
+[18:16:34] [Server thread/WARN]: Boat (vehicle of LAMBARIiccc) moved too quickly! 0.0,0.0,32.572015694778514
+[18:16:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[18:17:33] [Server thread/INFO]: ICOGNITA lost connection: Disconnected
+[18:17:33] [Server thread/INFO]: ICOGNITA left the game
+[18:24:23] [Server thread/INFO]: ICOGNITA[/177.75.133.72:29645] logged in with entity id 641721 at (255.71219391550747, 58.0, 0.9542618987838442)
+[18:24:23] [Server thread/INFO]: ICOGNITA joined the game
+[18:32:49] [Server thread/INFO]: ICOGNITA lost connection: Disconnected
+[18:32:49] [Server thread/INFO]: ICOGNITA left the game
+[18:34:37] [Server thread/INFO]: Jeywerson was slain by Enderman
+[18:34:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[18:35:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[18:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5334ms or 106 ticks behind
+[18:36:02] [Server thread/WARN]: Jeywerson moved too quickly! 2266.568336949306,55.2468000194788,-4286.409518448967
+[18:36:03] [Server thread/WARN]: Jeywerson moved too quickly! 2266.568336949306,55.2468000194788,-4286.409518448967
+[18:36:45] [Server thread/INFO]: Jeywerson fell out of the world
+[18:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[18:37:00] [Server thread/WARN]: Jeywerson moved too quickly! 2266.567682258506,55.2468000194788,-4287.532884912547
+[18:37:45] [Server thread/INFO]: Jeywerson was slain by Enderman
+[18:44:02] [Server thread/INFO]: Jeywerson has made the advancement [A Seedy Place]
+[18:45:31] [Server thread/INFO]: ICOGNITA[/177.75.133.72:30849] logged in with entity id 652656 at (257.51751980623084, 99.0, 3.202701412300816)
+[18:45:31] [Server thread/INFO]: ICOGNITA joined the game
+[19:03:48] [Server thread/INFO]: LAMBARIiccc has made the advancement [Those Were the Days]
+[19:04:02] [Server thread/INFO]: LAMBARIiccc has made the advancement [Eye Spy]
+[19:04:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
+[19:04:22] [Server thread/INFO]: LAMBARIiccc has made the advancement [The End?]
+[19:08:23] [Server thread/INFO]: ICOGNITA hit the ground too hard
+[19:12:41] [Server thread/INFO]: Jeywerson fell from a high place
+[19:15:30] [Server thread/INFO]: ICOGNITA was slain by Enderman
+[19:17:04] [Server thread/INFO]: Jeywerson lost connection: Disconnected
+[19:17:04] [Server thread/INFO]: Jeywerson left the game
+[19:18:36] [Server thread/WARN]: ICOGNITA moved too quickly! 2266.589698449161,55.2468000194788,-4287.0007620199185
+[19:18:36] [Server thread/WARN]: ICOGNITA moved too quickly! 2266.589698449161,55.2468000194788,-4287.0007620199185
+[19:24:47] [Server thread/INFO]: LAMBARIiccc lost connection: Disconnected
+[19:24:47] [Server thread/INFO]: LAMBARIiccc left the game
+[19:28:35] [Server thread/INFO]: ICOGNITA fell out of the world
+[19:34:40] [Server thread/INFO]: Stopping the server
+[19:34:40] [Server thread/INFO]: Stopping server
+[19:34:40] [Server thread/INFO]: Saving players
+[19:34:40] [Server thread/INFO]: ICOGNITA lost connection: Server closed
+[19:34:40] [Server thread/INFO]: ICOGNITA left the game
+[19:34:40] [Server thread/INFO]: Saving worlds
+[19:34:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:34:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:34:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:34:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:34:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:34:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:34:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
