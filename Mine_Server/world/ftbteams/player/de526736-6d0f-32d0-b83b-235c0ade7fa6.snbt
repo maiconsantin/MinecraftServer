@@ -1,0 +1,15 @@
+{
+	id: "de526736-6d0f-32d0-b83b-235c0ade7fa6"
+	type: "player"
+	player_name: "matMATADORgts"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "matMATADORgts"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
