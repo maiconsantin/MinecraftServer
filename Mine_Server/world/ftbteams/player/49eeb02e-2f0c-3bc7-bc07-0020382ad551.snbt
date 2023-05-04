@@ -1,0 +1,17 @@
+{
+	id: "49eeb02e-2f0c-3bc7-bc07-0020382ad551"
+	type: "player"
+	player_name: "PyschoBat"
+	ranks: {
+		49eeb02e-2f0c-3bc7-bc07-0020382ad551: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "PyschoBat"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5985"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

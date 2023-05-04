@@ -1,0 +1,15 @@
+{
+	id: "5ec55e7c-bc4f-360b-85e3-25c18141c01f"
+	type: "player"
+	player_name: "FernandoBoaretto"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "FernandoBoaretto"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5987"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
