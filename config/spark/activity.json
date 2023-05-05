@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "InteJason",
+      "uniqueId": "41a42a8c-3fe5-4563-9f0b-4f7d8fa19c7f"
+    },
+    "time": 1669696879982,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\Jason\\curseforge\\minecraft\\Instances\\DawnCraft - Alpha 0.6\\config\\spark\\profile-2022-11-29_07.41.19.sparkprofile"
+    }
+  }
+]

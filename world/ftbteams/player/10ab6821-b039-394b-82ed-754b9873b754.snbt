@@ -1,0 +1,15 @@
+{
+	id: "10ab6821-b039-394b-82ed-754b9873b754"
+	type: "player"
+	player_name: "PyschoBatata"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "PyschoBatata"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A2FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
